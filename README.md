@@ -1,6 +1,10 @@
 # RPSLS
 Rock Paper Scissor Lizard Spock
 
+## Language
+- Python 3
+- PyQT 5 as GUI library with QTDesigner for UI files
+
 ## Author
 - barik.biplab1@gmail.com
 - https://www.linkedin.com/in/biplab-barik-098514ab/
