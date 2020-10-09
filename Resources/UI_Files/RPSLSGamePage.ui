@@ -48,14 +48,16 @@
     <property name="font">
      <font>
       <family>Malgun Gothic</family>
-      <pointsize>10</pointsize>
+      <pointsize>12</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
      </font>
     </property>
     <property name="autoFillBackground">
      <bool>false</bool>
     </property>
     <property name="styleSheet">
-     <string notr="true">color: rgb(240,240,240);background-color: rgba(0, 0, 0, 0);</string>
+     <string notr="true">color: rgb(255,255,255);background-color: rgba(0, 0, 0, 0);</string>
     </property>
     <property name="text">
      <string>You WON !!</string>
