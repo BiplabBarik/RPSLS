@@ -12,7 +12,7 @@ Rock Paper Scissor Lizard Spock
 ## Features
 - Support Old Style Rock Paper Scissor
 - Support New Style Rock Paper Scissor Lizard Spock
-- Database of Longest Winning Streaks 
+- Database of Longest Winning Streaks [To be Added]
 
 ## Rules
 ### RPS
